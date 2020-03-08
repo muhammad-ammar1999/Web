@@ -1,0 +1,20 @@
+                               WEB Deveoplpers Roadmap 2o2o
+Topics Covered
+impotant points are in register 
+
+
+FRONT - END
+
+INTERNET??
+how does internet works 
+HTTp?
+Browsers work? 
+DNS?
+Domain name ?
+hosting?
+
+
+HTML?
+Basics??
+Forms and Validations ??
+Conventions and Best Practices ?
