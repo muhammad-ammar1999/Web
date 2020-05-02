@@ -1,8 +1,17 @@
 body{
-  background-color: brown;
-  color: burlywood;
-}
+ background-color: gray;
+ color: #f4f4f4;
+ margin:2%;
+ font-size: 100%;
 
+}
+section{
+  width: 45%;
+  margin-top: 2%;
+  display: inline-block;
+ 
+
+}
 .navigation ul {
   font: bold 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
@@ -19,6 +28,10 @@ body{
   color: #fff;
   padding: 12px 20px;
   text-decoration: none;
+  display: inline-block;
+  width: 52%;
+
+
 }
 .navigation a:hover {
   background: #314b60;
@@ -31,3 +44,24 @@ body{
   border-right: 0;
   border-radius: 0 4px 4px 0;
 }
+footer{
+  display: inline-block;
+  margin-top: 10%;
+
+}
+header{
+  text-align: center;
+}
+header, footer{
+background: linear-gradient(#666 0%, #131313 100%);
+background: linear-gradient(#666 0%, #131313 100%);
+background: linear-gradient(#666 0%, #131313 100%);
+background: linear-gradient(#666 0%, #131313 100%);
+background: linear-gradient(#666 0%, #131313 100%);
+
+
+}
+img{
+	width: 20%;
+}
+
