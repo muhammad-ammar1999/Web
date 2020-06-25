@@ -1,4 +1,0 @@
-https://learn.shayhowe.com/html-css/
-https://d3c33hcgiwev3.cloudfront.net/_ed32e6473cb5a20030ebf1cc3adc1cc4_intro-html-slides-pdf.zip?Expires=1585440000&Signature=dHsmby4SWuJAUbuaNHKgGWMgPMLLnEOFz~ki4uZnW1VlhMjICEEVIYaxUbGJVTEGEAwy8H8WLICnZ5eP6m6G0BjgeQfm~pv1OpovXLqIrwlISFNDgev0ISNcYCQLJZGpSohua0jn6d30hNXgeLcUH~DqXiU0bD2u6IWVLnklfb4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
-https://d3c33hcgiwev3.cloudfront.net/_3eaf76b1c0d30d6ff29129d6ab8814de_intro-html-slides-ppt.zip?Expires=1585440000&Signature=h-SvuzWxY76XVJgGdBEUhGMf4FqINmGqP0nlwx3Lz3p~4gGYB6rwKDd6AeWSEc-OPZTeg1Hww1KD8ql0vWnFd15YouFeXrBqaPZsuTj~CysLXHTyAIaX1qDDga6RFe4l6gE~dqXm3WrVRF5kqStjxfmDEc2dbE3vqGpuw4gGLcs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
-https://www.coursera.org/learn/html/supplement/G4s1c/notice-for-auditing-learners-assignment-submission
